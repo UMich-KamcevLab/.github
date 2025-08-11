@@ -1,6 +1,6 @@
 # The Kamcev Lab at the University of Michigan Chemical Engineering Department Code Base
-The Kamcev Lab, led by Associate Professor Jovan Kamcev, is a hub for developing materials and an understanding of ion transport in membrane technologies. The lab combines material synthesis with intensive characterization and fundamental mathematical models to advance the study of membranes for electrochemical technologies. 
-This will serve as a resource for public and private projects associated with publications and workflows in the Kamcev Lab.  
+The Kamcev Lab, led by Associate Professor Jovan Kamcev, is a hub for developing materials and an understanding of ion transport in membrane technologies. The lab combines material synthesis with intensive characterization and fundamental mathematical models to advance the study of membranes for electrochemical technologies.  
+This github organization will serve as a resource for public and private projects associated with publications and workflows in the Kamcev Lab.  
 
 # Public Tools
 *currently empty*
